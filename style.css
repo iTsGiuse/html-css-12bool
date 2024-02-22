@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.box-blue{
+    border: 1px solid white;
+    background-color: rgb(3, 55, 245);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.box-green{
+    border: 1px solid white;
+    background-color: rgb(23, 202, 23);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.altezza{
+    height: 40px;
+}
+
+#prima .row:nth-child(2){
+    margin-top: 30px;
+}
+#prima .row:nth-child(7){
+    margin-bottom: 20px;
+}
+#prima .row:nth-last-child(1){
+    margin-bottom: 40px;
+}
+#seconda .row:nth-child(2){
+    margin-top: 20px;
+}
